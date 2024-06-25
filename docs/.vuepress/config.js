@@ -14,7 +14,7 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
-    navbar: ['/', '/get-started', '/download-center'],
+    navbar: ['/', '/get-started', '/download-center', '/miaomiao-ai'],
   }),
 
   bundler: viteBundler(),

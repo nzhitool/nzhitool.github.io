@@ -138,6 +138,7 @@
 <span class="line">    在设置中下拉找到USB调试,并打开,同时打开USB调试(安全设置)</span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="加入玩家交流群" tabindex="-1"><a class="header-anchor" href="#加入玩家交流群"><span>加入玩家交流群</span></a></h2>
+<p>群号：1064545926</p>
 <img src="https://img.picui.cn/free/2024/06/25/6679b06181a87.jpg" width = 728 height = 397></div></template>
 
 

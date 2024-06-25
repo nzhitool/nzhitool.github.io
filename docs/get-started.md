@@ -196,4 +196,6 @@ HDMI（DP） 需要手机支持，需要额外的手机 HDMI（DP） 拓展坞�
 
 ## 加入玩家交流群
 
+群号：1064545926
+
 <img src="https://img.picui.cn/free/2024/06/25/6679b06181a87.jpg" width = 728 height = 397>

@@ -4,6 +4,7 @@ export const routes = Object.fromEntries([
   ["/download-center.html", { loader: () => import(/* webpackChunkName: "download-center.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/download-center.html.js"), meta: {"title":"下载中心"} }],
   ["/get-started.html", { loader: () => import(/* webpackChunkName: "get-started.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/get-started.html.js"), meta: {"title":"快速上手"} }],
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"首页"} }],
+  ["/miaomiao-ai.html", { loader: () => import(/* webpackChunkName: "miaomiao-ai.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/miaomiao-ai.html.js"), meta: {"title":"爱喵喵AI"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
 
