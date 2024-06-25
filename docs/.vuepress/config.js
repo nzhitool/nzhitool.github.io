@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: 'Nzhi助手',
+  title: 'Nzhi手游助手',
   description: '全网最强键鼠映射软件',
 
   head: [
@@ -14,7 +14,7 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
-    navbar: ['/', '/get-started', '/download-center', '/carmi-shop.md'],
+    navbar: ['/', '/get-started', '/download-center'],
   }),
 
   bundler: viteBundler(),

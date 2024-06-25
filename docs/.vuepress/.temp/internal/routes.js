@@ -1,7 +1,6 @@
 export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
-  ["/carmi-shop.html", { loader: () => import(/* webpackChunkName: "carmi-shop.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/carmi-shop.html.js"), meta: {"title":"购买卡密"} }],
   ["/download-center.html", { loader: () => import(/* webpackChunkName: "download-center.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/download-center.html.js"), meta: {"title":"下载中心"} }],
   ["/get-started.html", { loader: () => import(/* webpackChunkName: "get-started.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/get-started.html.js"), meta: {"title":"快速上手"} }],
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/nzhi_website/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"首页"} }],

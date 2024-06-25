@@ -1,5 +1,7 @@
 <template><div><h2 id="n指助手介绍" tabindex="-1"><a class="header-anchor" href="#n指助手介绍"><span>N指助手介绍</span></a></h2>
-<p><strong>N指助手</strong>是一款免费的国内顶尖键鼠映射软件，可以为玩家带来强大的手柄映射功能，软件将为用户提供经典的简易键盘映射系统；它们的设计有相应的控制图标和全方位的功能。您所要做的就是移动这些键盘以适应手机屏幕上的控制器。</p>
+<p><strong>N指助手</strong>是一款国内顶尖键鼠映射软件，可以为玩家带来强大的手柄映射功能，软件将为用户提供经典的简易键盘映射系统；它们的设计有相应的控制图标和全方位的功能。您所要做的就是移动这些键盘以适应手机屏幕上的控制器。</p>
+<p><a href="https://v.youku.com/v_show/id_XNjQwNzU0Mzg0MA==.html" target="_blank" rel="noopener noreferrer">Nzhi宣传视频</a></p>
+<p><a href="https://v.youku.com/v_show/id_XNjQwNzU0NjgzNg==.html" target="_blank" rel="noopener noreferrer">Nzhi实战效果</a></p>
 <blockquote>
 <p><strong>软件特色</strong></p>
 <p>软件运行于Windows平台，支持键盘鼠标玩安卓设备吃鸡手游</p>
@@ -7,10 +9,8 @@
 <p>支持键位自定义,上下车不卡视角，舔包不卡视角</p>
 <p>压枪及连点功能支持记忆枪位和开镜状态，开镜压枪，不开镜不压枪，丢雷不压枪</p>
 <p>鼠标呼出功能支持开背包地图自动呼出鼠标</p>
-<p>免费版与收费版均包含：按键压枪、识别压枪、连点射击、呼出鼠标、键盘宏组件等所有功能</p>
 </blockquote>
 <p>目前市面上所有投屏的软件几乎无法媲美Nzhi，例如 TCgamesa：连接繁琐，经常无法操控（Nzhi有他所有VIP的功能）</p>
-<p>免费版与收费版唯一区别：免费版只能数据线连接，收费版可以WIFI或者网线连接，用于设备投屏。免费版适用于不支持扩展坞的手机或者平板，支持扩展坞的设备则推荐收费版</p>
 <blockquote>
 <p><strong>使用说明</strong></p>
 <p>为什么选择映射而不是王座？</p>
@@ -45,47 +45,14 @@
 <font color=red>4/不要动不动就说什么投屏延迟，卡顿，先去看看投屏的常识，不要自己设备不行连接投屏就说软件不行，去看2.0的设备和3.0设备的差别，你2.0设备只能USB连接，只配延迟和卡顿，拿着你2.0的垃圾设备歇菜吧，用Nzhi看着手机玩，还投个毛的屏！</font>
 <br>
 <font color=red>5/调识别压枪首先确定好游戏的分辨率，以后不要变分辨率（变了无法识别坐标），枪口等坐标只保存一次就可以了，换上的什么配件等，先获取特征，再去选择识别</font>
-<br>
-<font color=red>6/软件免费版和收费版的区别就是限制了扩展坞的WIFI连接和宽带IP连接，其他功能不限制</font>
-<br>
-<font color=red>7/免费版只能USB连接（看着手机或者平板的屏幕玩）</font>
-<br>
-<font color=red>8/收费标准：月卡27元、季卡75元、半年卡150元、年卡300元。免费版用户自己看群文件的教程！</font>
 </div>
 <div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre v-pre class="language-text"><code><span class="line">问：部分枪的数据是通用的，自己要找规律吗？</span>
 <span class="line">答：比如数字键盘的 . 对应的就是M416的裸枪数据，可以匹配汤姆逊和UMP45</span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre v-pre class="language-text"><code><span class="line">问：远程是基础枪（常用枪支的数据），没有的组合配件，可以自己添加吗？</span>
-<span class="line">答：1、可以自己添加</span>
-<span class="line"></span>
-<span class="line">    2、收费的30元只是基础枪</span>
-<span class="line"></span>
-<span class="line">           M416          红</span>
-<span class="line"></span>
-<span class="line">           斯嘎           红</span>
-<span class="line"></span>
-<span class="line">           AK             红</span>
-<span class="line"></span>
-<span class="line">           M762          红</span>
-<span class="line"></span>
-<span class="line">           G3             红</span>
-<span class="line"></span>
-<span class="line">           狗杂           红</span>
-<span class="line"></span>
-<span class="line">           M16           连点红</span>
-<span class="line"></span>
-<span class="line">           MINI           连点红 </span>
-<span class="line"></span>
-<span class="line">           压枪数据里有的才能识别</span>
-<span class="line"></span>
-<span class="line">    3、收费200元是所有枪支所有组合数据的定制费用（每个人灵敏度、分辨率都不一样）</span>
+<span class="line">答：可以自己添加</span>
 <span class="line"></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre v-pre class="language-text"><code><span class="line">问：远程怎么收费</span>
-<span class="line">答：所有远程都是收费30元</span>
-<span class="line">    购买卡密是远程设置设备按键（免费一次）</span>
-<span class="line">    购买压枪数据远程设置识别（免费一次）</span>
-<span class="line"></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre v-pre class="language-text"><code><span class="line">问：进游戏不能识别压枪</span>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre v-pre class="language-text"><code><span class="line">问：进游戏不能识别压枪</span>
 <span class="line">答：进入游戏就立马激活枪位按数字和键盘上的.（Del）</span>
 <span class="line">    比如1.和2. 再拿到有数据的枪组合就可以直接背包键识别有数据的组合了</span>
 <span class="line"></span></code></pre>
