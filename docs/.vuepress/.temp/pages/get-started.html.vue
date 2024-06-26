@@ -1,7 +1,7 @@
 <template><div><h2 id="n指助手介绍" tabindex="-1"><a class="header-anchor" href="#n指助手介绍"><span>N指助手介绍</span></a></h2>
 <p><strong>N指助手</strong>是一款国内顶尖键鼠映射软件，可以为玩家带来强大的手柄映射功能，软件将为用户提供经典的简易键盘映射系统；它们的设计有相应的控制图标和全方位的功能。您所要做的就是移动这些键盘以适应手机屏幕上的控制器。</p>
-<p><a href="https://v.youku.com/v_show/id_XNjQwNzU0Mzg0MA==.html" target="_blank" rel="noopener noreferrer">Nzhi宣传视频</a></p>
-<p><a href="https://v.youku.com/v_show/id_XNjQwNzU0NjgzNg==.html" target="_blank" rel="noopener noreferrer">Nzhi实战效果</a></p>
+<p><a href="https://v.youku.com/v_show/id_XNjQwNzU0Mzg0MA==.html" target="_blank" rel="noopener noreferrer">N指宣传视频</a></p>
+<p><a href="https://v.youku.com/v_show/id_XNjQwNzU0NjgzNg==.html" target="_blank" rel="noopener noreferrer">N指实战效果</a></p>
 <blockquote>
 <p><strong>软件特色</strong></p>
 <p>软件运行于Windows平台，支持键盘鼠标玩安卓设备吃鸡手游</p>
@@ -10,7 +10,7 @@
 <p>压枪及连点功能支持记忆枪位和开镜状态，开镜压枪，不开镜不压枪，丢雷不压枪</p>
 <p>鼠标呼出功能支持开背包地图自动呼出鼠标</p>
 </blockquote>
-<p>目前市面上所有投屏的软件几乎无法媲美Nzhi，例如 TCgamesa：连接繁琐，经常无法操控（Nzhi有他所有VIP的功能）</p>
+<p>目前市面上所有投屏的软件几乎无法媲美N指，例如 TCgamesa：连接繁琐，经常无法操控（N指有他所有VIP的功能）</p>
 <blockquote>
 <p><strong>使用说明</strong></p>
 <p>为什么选择映射而不是王座？</p>
@@ -20,7 +20,7 @@
 <p>4.王座带识别压枪，但是压枪没有映射准</p>
 <p>5.映射也有识别压枪，但是需要自己添加数据后才可以实现，映射快捷键压枪精调后比王座准10倍</p>
 </blockquote>
-<h2 id="使用nzhi必须的配置" tabindex="-1"><a class="header-anchor" href="#使用nzhi必须的配置"><span>使用Nzhi必须的配置:</span></a></h2>
+<h2 id="使用n指必须的配置" tabindex="-1"><a class="header-anchor" href="#使用n指必须的配置"><span>使用N指必须的配置:</span></a></h2>
 <h3 id="_1-接口" tabindex="-1"><a class="header-anchor" href="#_1-接口"><span>1.接口</span></a></h3>
 <p>自己的手机或者平板必须支持3.0TPC接口
 <img src="https://img.picui.cn/free/2024/06/25/6679a409ed233.png" width = 526 height = 885></p>
@@ -42,7 +42,7 @@
 <br>
 <font color=red>3/问的问题凡是教程有的，一律不做解答</font>
 <br>
-<font color=red>4/不要动不动就说什么投屏延迟，卡顿，先去看看投屏的常识，不要自己设备不行连接投屏就说软件不行，去看2.0的设备和3.0设备的差别，你2.0设备只能USB连接，只配延迟和卡顿，拿着你2.0的垃圾设备歇菜吧，用Nzhi看着手机玩，还投个毛的屏！</font>
+<font color=red>4/不要动不动就说什么投屏延迟，卡顿，先去看看投屏的常识，不要自己设备不行连接投屏就说软件不行，去看2.0的设备和3.0设备的差别，你2.0设备只能USB连接，只配延迟和卡顿，拿着你2.0的垃圾设备歇菜吧，用N指看着手机玩，还投个毛的屏！</font>
 <br>
 <font color=red>5/调识别压枪首先确定好游戏的分辨率，以后不要变分辨率（变了无法识别坐标），枪口等坐标只保存一次就可以了，换上的什么配件等，先获取特征，再去选择识别</font>
 </div>

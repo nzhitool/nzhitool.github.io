@@ -1,4 +1,4 @@
-<template><div><p><a href="https://www.lanzouw.com/iWOMw22q13qb" target="_blank" rel="noopener noreferrer">Nzhi画质助手</a></p>
+<template><div><p><a href="https://www.lanzouw.com/iWOMw22q13qb" target="_blank" rel="noopener noreferrer">N指画质助手</a></p>
 <p><a href="https://www.lanzouw.com/igsc022pwgsb" target="_blank" rel="noopener noreferrer">【安卓8-14版本】N指助手v1.0.0.8安装包</a></p>
 <p><a href="https://www.lanzouw.com/ic0pS22pyyqj" target="_blank" rel="noopener noreferrer">【和平精英】压枪数据</a></p>
 <p><a href="https://www.lanzouw.com/ih8Q822pyypi" target="_blank" rel="noopener noreferrer">【键位】【和平精英】教程</a></p>

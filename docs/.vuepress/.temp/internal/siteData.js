@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-CN\",\"title\":\"Nzhi手游助手\",\"description\":\"全网最强键鼠映射软件\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/images/Nzhi.png\"}]],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-CN\",\"title\":\"N指手游助手\",\"description\":\"全网最强键鼠映射软件\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/images/Nzhi.png\"}]],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

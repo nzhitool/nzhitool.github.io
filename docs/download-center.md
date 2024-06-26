@@ -2,7 +2,7 @@
 title: 下载中心
 ---
 
-[Nzhi画质助手](https://www.lanzouw.com/iWOMw22q13qb)
+[N指画质助手](https://www.lanzouw.com/iWOMw22q13qb)
 
 [【安卓8-14版本】N指助手v1.0.0.8安装包](https://www.lanzouw.com/igsc022pwgsb)
 

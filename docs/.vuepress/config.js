@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: 'Nzhi手游助手',
+  title: 'N指手游助手',
   description: '全网最强键鼠映射软件',
 
   head: [
