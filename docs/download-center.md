@@ -2,7 +2,7 @@
 title: 下载中心
 ---
 
-[N指画质助手](https://www.lanzouw.com/iWOMw22q13qb)
+[N指投屏画质助手](https://wwwj.lanzouw.com/i049Y29t1y3e)
 
 [【安卓8-14版本】N指助手v1.0.0.8安装包](https://www.lanzouw.com/igsc022pwgsb)
 
